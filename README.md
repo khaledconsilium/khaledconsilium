@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khaled Arafat
-- 👀 I’m interested in learning more about Poweshell and latest technoliges 
+- 👀 I’m interested in learning more about Poweshell and latest MS features 
 - 🌱 I’m currently working as IT-Operation 
 - 💞️ I’m looking to collaborate on Powershell and JQ
 
